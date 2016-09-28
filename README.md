@@ -1,2 +1,3 @@
-# hello-world
-hello this is my first github repository
+
+this time i have created new branch 
+and trying to commite it to master
